@@ -12,7 +12,7 @@ A modern, responsive landing page for Nailib's video content which is designed t
 - **Responsive Design** ensuring compatibility across all devices
   
 
->**Live Demo** : [CLICK HERE](https://nailib-video-landing.vercel.app/)
+>**Live Demo** : [CLICK HERE](https://nailib-video-landing1.vercel.app/)
 
     
 
@@ -48,7 +48,7 @@ A modern, responsive landing page for Nailib's video content which is designed t
 
 ### Deployment :
 
-Deployed with [Vercel](https://nailib-video-landing.vercel.app/).  
+Deployed with [Vercel](https://nailib-video-landing1.vercel.app/).  
 
 ### License : 
 
